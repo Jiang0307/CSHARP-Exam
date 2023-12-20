@@ -1,0 +1,64 @@
+C:\Users\User\Desktop\C# Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\User\Desktop\C# Exam\Exam\bin\Debug\Exam.exe
+C:\Users\User\Desktop\C# Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.機台監測.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.生產總表.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.電力監測.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.預防保養.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.exe
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.pdb
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.預防保養歷史記錄.resources
+C:\Users\User\Desktop\C# Exam\Exam\obj\Debug\Exam.產能效率.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\bin\Debug\Exam.exe.config
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\bin\Debug\Exam.exe
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\bin\Debug\Exam.pdb
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.機台監測.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.生產總表.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.產能效率.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.電力監測.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.預防保養.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.預防保養歷史記錄.resources
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.exe
+C:\Users\User\Desktop\C# Exam - 複製 (2)\Exam\obj\Debug\Exam.pdb
+C:\Users\User\Desktop\C# Exam Latest\Exam\bin\Debug\Exam.exe.config
+C:\Users\User\Desktop\C# Exam Latest\Exam\bin\Debug\Exam.exe
+C:\Users\User\Desktop\C# Exam Latest\Exam\bin\Debug\Exam.pdb
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.機台監測.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.生產總表.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.產能效率.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.電力監測.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.預防保養.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.預防保養歷史記錄.resources
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.exe
+C:\Users\User\Desktop\C# Exam Latest\Exam\obj\Debug\Exam.pdb
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\bin\Debug\Exam.exe
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.機台監測.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.生產總表.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.產能效率.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.電力監測.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.預防保養.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.預防保養歷史記錄.resources
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.exe
+C:\Users\User\Desktop\GitHub\CSHARP-Exam\Exam\obj\Debug\Exam.pdb
